@@ -13,8 +13,7 @@ environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
 
 dependencies:
-  flutter_wordpress:
-    path: ../
+  flutter_wordpress: ^0.1.4
   flutter:
     sdk: flutter
   flutter_html: ^0.9.4
